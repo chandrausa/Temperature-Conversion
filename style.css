@@ -1,0 +1,44 @@
+.TC{
+    display: block;
+    text-align: center;
+    font-size: 1em;
+}
+#sub{
+    margin-top: 15px;
+    font-size: 1em;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+#sub:hover{
+    background-color: rgb(246,13, 13);
+}
+#o1{
+    cursor: pointer;
+}
+#o2{
+    cursor: pointer;
+}
+#options{
+    background-color: aliceblue;
+    max-width: 350px;
+    text-align: center;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+#text{
+    width: 50%;;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid rgba(0, 0, 0, 0.808);
+    border-radius: 4px;
+}
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
